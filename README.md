@@ -30,12 +30,6 @@ This is a simple web application that calculates a user's age in **years, months
 
 ---
 
-## 📸 Screenshot
-
-(Add a screenshot here if you want.)
-
----
-
 ## 📚 Concepts Practiced
 
 - DOM manipulation with JavaScript  
